@@ -1,0 +1,5 @@
+*.swp
+.svn
+domlib
+build
+Makefile
